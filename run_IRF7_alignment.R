@@ -3,11 +3,9 @@
 
 ### Step 1: Enter the file locations
 
-input_fasta <- "/Users/jschoggins/5-Reference/SchogginsLab/ExperimentsData/Bat ISGs/bat IRF7/orthologs/Human vs Palecto align for paper/IRF7_human_bat_input.fasta"
-#input_fasta <- "/Users/yourname/path/to/IRF7_human_bat_input.fasta"
+input_fasta <- "/Users/yourname/path/to/IRF7_human_bat_input.fasta"
 
-output_folder <- "/Users/jschoggins/5-Reference/SchogginsLab/ExperimentsData/Bat ISGs/bat IRF7/orthologs/Human vs Palecto align for paper/output"
-#output_folder <- "/Users/yourname/path/to/alignment_results"
+output_folder <- "/Users/yourname/path/to/alignment_results"
 
 ### Confirm that the input FASTA exists
 
